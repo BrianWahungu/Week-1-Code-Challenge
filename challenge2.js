@@ -1,8 +1,6 @@
 // Challenge 2: Speed Detector (Toy Problem)
-
-let speed = 124;
-
-let dimerit;
+function submit(){
+    const speed=document.getElementById("speed").value;
 
 if (speed<=70) {
     console.log('ok');
@@ -53,4 +51,7 @@ else if (speed<=125){
 }
 else {
     console.log ("license suspended")
+}
+const output=document.getElementById("status");
+output.textContent="status";
 }
