@@ -5,27 +5,19 @@ This is an exercise to show how java script functions work in applications.
 
 # Getting started
 
-Make sure that you are using Ubuntu OS, Make sure Visual Studio (any version) is well installed and running correctly on your computer, ensure that you have Google Chrome working on your computer (any version)
-
-## Installation
-
-Step 1: Click on this link: https://github.com/BrianWahungu/Week-1-Code-Challenge.git
-Step 2: Copy the SSH code.
-Step 3: Open terminal on your computer, navigate to a folder of your choice using the cd command.
-step 4: Git clone the files of this application to your chosen directory, this should copy all the files in your local directory.
-Step 5: Use the command code . to open visual code. You should see all the codes open up on visual code.
-You are now ready to test if the application works. 
+You only need to have Google Chrome well installed and working on your computer. 
 
 ## Running the application
  # Challenge 1: Student Grade Generator (Toy Problem)
 
-Step 1: On the explorer tab of VS code, right click on the file: studentgrade.html and then click on open with live server. 
+Step 1: Click on this link: http://127.0.0.1:5500/studentgrade.html 
 Step 2: Click on the click now button. A prompt will open stating: "Enter Marks"
-Step 3: The application works correctly if when a student keys in their marks, it produces their grade correctly. For example, a mark above 80 should produce an A. 
+Step 3: Key in your mark in the section provided and hit enter.
+Step 4: You should see your grade outputed as either A, B, C, D or E depending on your mark.  
 
 # Challenge 2: Speed Detector (Toy Problem)
 
-Step 1: On the explorer tab of VS code, right click on the file: speed.html and then click on open with live server.
+Step 1: Click on this link: http://127.0.0.1:5500/speed.html
 Step 2: Click on the "Click me" button. 
 Step 3: A prompt will appear on the chrome browser with the statement: "enter speed". 
 Step 4: Enter any speed level in the prompt. For example, 40. The prompt should output "OK".

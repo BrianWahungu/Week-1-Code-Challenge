@@ -59,9 +59,10 @@ console.log('NSSF deduction:', NSSF)
     console.log('Taxes: PAYE + NSSF + NHIF :', (NSSF + PAYE + NHIF ))
     let netSalary = 'Net Salary:  ' + (gross - (NSSF + PAYE + NHIF ))
     return netSalary;
-        
+    document.getElementById("status").innerHTML=netsalary;
+  
 }
-    console.log(salCalc(50000, 5000));
+   
 
 
 
