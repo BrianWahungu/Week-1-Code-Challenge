@@ -28,3 +28,5 @@ Step 1: Open the terminal on vs code.
 Step 2: Run the code "node challenge3.js" It should output the Gross salary, PAYE deductions, NSSF deduction, NHIF Deduction, Taxes and compute the salary. 
 Step 3: You can use different arguments to test different amounts of salary. 
 
+# Authors
+This project was contributed to by: Brian Wahungu
