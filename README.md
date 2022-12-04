@@ -10,14 +10,14 @@ You only need to have Google Chrome well installed and working on your computer.
 ## Running the application
  # Challenge 1: Student Grade Generator (Toy Problem)
 
-Step 1: Click on this link: http://127.0.0.1:5500/studentgrade.html 
+Step 1: Click on this link: https://brianweekonecodechallenge.netlify.app/ 
 Step 2: Click on the click now button. A prompt will open stating: "Enter Marks"
 Step 3: Key in your mark in the section provided and hit enter.
 Step 4: You should see your grade outputed as either A, B, C, D or E depending on your mark.  
 
 # Challenge 2: Speed Detector (Toy Problem)
 
-Step 1: Click on this link: http://127.0.0.1:5500/speed.html
+Step 1: Click on this link: https://brianweekonecodechallenge.netlify.app/
 Step 2: Click on the "Click me" button. 
 Step 3: A prompt will appear on the chrome browser with the statement: "enter speed". 
 Step 4: Enter any speed level in the prompt. For example, 40. The prompt should output "OK".
