@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "it": "^1.1.1"
+  },
+  "name": "week-1-code-challenge",
+  "description": "# Description This is an exercise to show how java script functions work in applications.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "npm test",
+
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianWahungu/Week-1-Code-Challenge.git"
+  },
+  "author": "brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianWahungu/Week-1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/BrianWahungu/Week-1-Code-Challenge#readme"
+}

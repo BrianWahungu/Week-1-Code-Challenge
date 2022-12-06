@@ -60,4 +60,4 @@ console.log('Gross salary:', gross)
     let netSalary = 'Net Salary:  ' + (gross - (NSSF + PAYE + NHIF ))
     return netSalary;
 }
-        console.log(salCalc(40000, 5000));
+        console.log(salCalc(10000, 500));

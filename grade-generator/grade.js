@@ -1,5 +1,5 @@
 // Challenge 1: Student Grade Generator (Toy Problem)39                          
-
+// Input a function that takes a mark and return the grade
 function marks(){
     let grade= prompt ("Enter marks");
     let result;

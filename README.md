@@ -27,6 +27,18 @@ Step 4: Enter any speed level in the prompt. For example, 40. The prompt should 
 Step 1: Open the terminal on vs code.
 Step 2: Run the code "node challenge3.js" It should output the Gross salary, PAYE deductions, NSSF deduction, NHIF Deduction, Taxes and compute the salary. 
 Step 3: You can use different arguments to test different amounts of salary. 
+# Option 2:
+Gitclone this repo in a directory using the HTTPS link. 
+Step one: On the terminal navigate to the directory you want to clone this file using the cd command.
+Step two: Git clone the https of this repository this should copy all files to your directory.
+Step three: Run the code . command on terminal to open vs code.
+Step four: Open the terminal in VS code.
+Step five: Run this command - cd tax-calculator (This should get you to the directory with the JS file)
+Step six: Run this command: node tax.js
+Step seven: You can adjust the basic salary and benefits to get different figures for NSSF, NHIF and PAYE. (Try 10,000 & 5,000) in the last line of the code) This should input different figures. 
+
 
 # Authors
 This project was contributed to by: Brian Wahungu
+# License
+LSC

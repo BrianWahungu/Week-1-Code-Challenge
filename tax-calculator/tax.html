@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,6 +7,32 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <label>Gross salary</label>
+    <input id="salary" type="number"/>
+    <br>
+    <br>
+    <label>Benefits</label>
+    <input id="benefits" type="number"/>
+    <br>
+    <br>
+    <button type="button" id="button" onclick="calculate();">Calculate</button>
+    <label>Gross Salary:</label>
+    <label id="grossSalary"></label>
+    <br><br>
+    <h2>Deductions</h2>
+    <br><br>
+    <label>NHIF:</label>
+    <label id="NHIF"></label>
+    <br><br>
+    <label>NSSF:</label>
+    <label id="NSSF"></label>
+    <br><br>
+    <label>PAYE:</label>
+    <label id="PAYE"></label>
+    <br><br>
+    <h3>After Deductions</h3>
+    <label>Net Salary:</label>
+    <label id="netSalary"></label>
+    <script src="./tax.js"></script>
 </body>
 </html>
